@@ -1,0 +1,16 @@
+{
+  "name": "ink",
+  "description": "The Ink plugin for Claude Code and Cowork, published by Egoist Machines.",
+  "owner": {
+    "name": "Egoist Machines, Inc.",
+    "email": "support@ego.ist",
+    "url": "https://ego.ist"
+  },
+  "plugins": [
+    {
+      "name": "ink",
+      "source": "./",
+      "description": "Deslop without losing the plot. Rewrite pasted text, or a local text or markdown file, with Ink while keeping its meaning, names, numbers and links intact."
+    }
+  ]
+}

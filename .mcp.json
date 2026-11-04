@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ink": {
+      "type": "http",
+      "url": "https://ink.ego.ist/mcp"
+    }
+  }
+}
