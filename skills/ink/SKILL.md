@@ -5,6 +5,8 @@ description: Rewrite pasted text, or a local text or markdown file the user name
 
 Use Ink when the user asks to rewrite supplied writing in their own words and a natural voice. Ink uses the shared Ink model. Personal voice profiles are coming soon. Never call shared output a trained personal voice.
 
+Strength defaults to strong. Set settings.strength to light or balanced when the person requests it.
+
 Sign-in, terms, plans and trials happen on https://ink.ego.ist. Call ink_get_status first. Relay any action_url exactly in text, including when a widget is available. Do not collect secrets or payment details in the conversation.
 
 For pasted text, use ink_rewrite_text with a fresh UUID idempotency_key. Omit profile. On retry, reuse exactly the same key and arguments. When the Ink widget is available, present the result there without repeating it unless asked, and mention any warnings. Without widget support, poll a pending job with ink_get_job, retrieve the finished result with ink_get_result, and show the rewritten text and warnings.
