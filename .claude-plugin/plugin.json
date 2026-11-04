@@ -10,6 +10,9 @@
   },
   "homepage": "https://ink.ego.ist",
   "privacyPolicyUrl": "https://ink.ego.ist/privacy",
+  "termsOfServiceUrl": "https://ink.ego.ist/terms",
+  "supportUrl": "https://ink.ego.ist/support",
+  "documentationUrl": "https://ink.ego.ist/agents",
   "repository": "https://github.com/Egoist-Machines/ink-claude-plugin",
   "license": "MIT",
   "keywords": [
