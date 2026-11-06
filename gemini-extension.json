@@ -1,6 +1,6 @@
 {
   "name": "ink",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Rewrite supplied text or a named local text file with Ink while preserving meaning.",
   "mcpServers": {
     "ink": {

@@ -15,7 +15,7 @@ The plugin has no hooks, scripts, local servers or package installs.
 
 ## Install
 
-The commands below use the public mirror. Version 0.1.2 must be synced there by the owner first. The directory listings are not submitted.
+The commands below use the public mirror, which has version 0.1.3. The directory listings are not submitted.
 
 ### Claude Code
 

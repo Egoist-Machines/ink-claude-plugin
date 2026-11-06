@@ -1,6 +1,6 @@
 {
   "name": "ink",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Deslop without losing the plot. Rewrite pasted text, or a local text or markdown file, with Ink while keeping its meaning, names, numbers and links intact.",
   "author": {
     "name": "Egoist Machines, Inc.",
