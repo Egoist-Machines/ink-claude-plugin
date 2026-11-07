@@ -7,6 +7,11 @@ Use Ink when the user asks to rewrite supplied writing in their own words and a 
 
 Strength defaults to balanced. Set settings.strength to light or strong when the person requests it.
 
+On numbers_added, deliver the output with the warning "Check numbers before use." and mention needs_review. Do not retry automatically.
+On sections_kept, deliver the output, show the warning message and mention needs_review. Do not retry automatically.
+
+Rewrites can return output_unreliable. Show error.message and stop. Words were refunded. Do not retry automatically or write a result file. REST direct mode answers raw prompts and does not use the rewrite output guard.
+
 Sign-in, terms, plans and trials happen on https://ink.ego.ist. Relay any action_url exactly in text, including when a widget is available. Do not collect secrets or payment details in the conversation.
 
 ## MCP
