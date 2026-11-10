@@ -1,6 +1,6 @@
 {
   "name": "ink",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "Write from a prompt or rewrite pasted text or a selected local text file with Ink.",
   "author": {
     "name": "Egoist Machines, Inc.",

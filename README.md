@@ -17,7 +17,7 @@ The plugin has no hooks, scripts, local servers or package installs.
 
 ## Install
 
-The commands below use the public mirror, which has version 0.1.5. The Claude plugin listing is in review; other listings are not submitted.
+The commands below use the public mirror, which has version 0.2.0. The Claude plugin listing is in review; other listings are not submitted.
 
 ### Claude Code
 
