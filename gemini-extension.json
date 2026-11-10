@@ -1,7 +1,7 @@
 {
   "name": "ink",
-  "version": "0.1.4",
-  "description": "Rewrite supplied text or a named local text file with Ink while preserving meaning.",
+  "version": "0.1.5",
+  "description": "Write from a prompt or rewrite pasted text or a selected local text file with Ink.",
   "mcpServers": {
     "ink": {
       "httpUrl": "https://ink.ego.ist/mcp"

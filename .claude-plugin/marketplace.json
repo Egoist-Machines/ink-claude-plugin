@@ -10,7 +10,7 @@
     {
       "name": "ink",
       "source": "./",
-      "description": "Deslop without losing the plot. Rewrite pasted text, or a local text or markdown file, with Ink while keeping its meaning, names, numbers and links intact."
+      "description": "Write from a prompt or rewrite pasted text or a selected local text file with Ink."
     }
   ]
 }
